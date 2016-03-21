@@ -17,10 +17,13 @@ Tarkastele lisenssiä osoitteessa http://creativecommons.org/licenses/by/4.0/.
 
 ## Tietoaineistot
 
+S2015-kansio: Syksyn 2015 MOOC-toteutuksen aineistot
+
 * koodiaapinen-taustakysely-anonymisoitu.csv: Kurssin alussa tehty taustakysely, n=1001
 * koodiaapinen-palautekysely-anonymisoitu.csv: Kurssin lopussa tehty palautekysely, n=228
 * koodiaapinen-tutkimuskysely-osa1-anonymisoitu.csv: Kurssin alussa tehty asennekysely, n=333
 * koodiaapinen-tutkimuskysely-osa2-anonymisoitu.csv: Kurssin lopussa tehty asennekyselyn toisto, n=117
+* graduaineisto_siistitty04.sav: Kurssin asennekyselyn siistitty versio SPSS-formaatissa.
 
 Taustakysely on tehty Google Formsilla, muut Webropolilla. Tästä johtuu eri aineistojen vastausformaattien ero.
 Webropolista tuotettujen aineistojen otsikot ovat kahdella rivillä ja itse aineiston lopussa on kunkin sarakkeen numeroarvojen selitykset.
