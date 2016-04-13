@@ -1,4 +1,32 @@
 Time,ajankaytto,tyo_materiaali,tyo_harjoitukset,haaste_materiaali,haaste_harjoitukset,hyodyllisyys,innostavuus,soveltuvuus,mita_opin,vapaa_palaute
+2016-04-13 08:27:37.838221+00:00,0,2,4,2,2,2,1,1,"",""
+2016-04-12 14:10:03.854265+00:00,0,2,2,2,2,3,2,2,"",""
+2016-04-11 08:35:49.800377+00:00,0,2,2,2,2,3,2,2,"",""
+2016-04-10 15:34:25.343879+00:00,2,2,2,2,2,2,3,2,"Jouduin tekemään tämän jaksaon hyvin hajanaisesti parin viikon aikana, joten mielessä ei ole yhtenäistä kuvaa jakson asioista. On kuitenkin ollut kuin vieraan kielen opettelua, uutta sanastoa ja nimenomaan niiden merkityksiä koodausmaailmassa. Toimintojen toteuttamista ja komentojen ymmärtämistä. ","Hyvin pysyy kärryillä ja edelleen innostaa entisestään! "
+2016-04-10 05:01:36.683431+00:00,2,2,2,2,2,3,3,1,"Määrittelyn voi tehdä eri tavoin. Aluksi on loogisempaa tehdä jokainen vaihe yksi kerrallaan, mutta kun ajattelukyky kehittyy, on helpompi kurjoittaa koodia lyhyesti. Sairastamisen ja yleisen kaaoksen vuoksi tein alkuosan kauan sitten, ja jatkoin vasta nyt jakson loppuun. Näin pitkä tauko ei ole hyvästä, mutta on positiivista, että kurssilla voi edetä omaan tahtiin. On huippua huomata, että jotkut jutut ovat itsestään selviä, joitain pitää miettiä enemmän.",""
+2016-04-05 07:19:30.604698+00:00,2,2,2,2,2,2,2,4,"",""
+2016-04-04 12:32:33.669337+00:00,0,2,2,2,2,3,3,3,"",""
+2016-04-04 06:04:52.358565+00:00,0,2,2,2,2,3,3,3,"",""
+2016-04-04 06:03:36.949157+00:00,0,2,2,2,2,2,2,2,"emt","emt"
+2016-04-01 09:03:08.521468+00:00,2,2,1,2,2,3,3,2,"Terminologiaa: esim. parametri, proseduuri ja funktio olivat toki tuttuja termejä aiemminkin, mutta en ollut aivan varma, mitä niillä täsmälleen ottaen tarkoitetaan.","Soveltavia harjoituksia voisi olla enemmän, siis sellaisia, että on valmis koodi, jota täytyy muokata erilaisten variaatioiden aikaansaamiseksi. Sellainen auttaa parhaiten hahmottamaan, miten koodinpätkät toimivat."
+2016-03-31 12:44:40.730952+00:00,2,2,2,2,2,3,3,3,"Kirjastojen kayttö Pythonissa. Proseduuri- ja funktiokasitteet ja niiden maaritteleminen.  Opin myös, etta muuttuja kasite saattaa olla vaikea kasite oppilaille ymmartaa. Sen opettamiseen ja sisaistamiseen kannattaa varata aikaa. Oli hyödyllisia esimerkkeja siita, miten oppilaat saattavat kasitteen ymmartaa. Entisena koodaajana en olisi uskonut sen olevan vaikeaa.  Opetin koulussa talla viikolla 'muuttuja't. Koska taalla mainittiin tama asia, niin yritin todellakin rautalangasta vaantamalla opettaa ja antaa paljon erilaisia esimerkkeja.",""
+2016-03-31 12:22:18.649336+00:00,0,2,2,2,2,2,2,2,"",""
+2016-03-31 08:56:05.658354+00:00,1,1,2,2,2,1,3,3,"",""
+2016-03-30 14:58:23.451818+00:00,1,2,2,2,1,2,2,3,"",""
+2016-03-30 07:49:37.062550+00:00,3,2,2,2,1,2,3,2,"Opin, että on vielä paljon opittavaa. Tuntui välillä aika haastavalta, varsinkin nimitysten kanssa sai palata taaksepäin usein selvittämään, mitä kukin termi oikein tarkoittikaan.",""
+2016-03-29 10:56:57.341019+00:00,0,2,2,2,2,3,3,3,"nimeämistä, lausekkeiden ja muuttujan käyttöä sekä uusia funktioita",""
+2016-03-28 16:46:03.848566+00:00,5,2,2,2,2,3,4,3,"Lausekkeiden laskemista sekä proseduurien ja funktioiden nimeämistä.",""
+2016-03-28 09:52:39.602993+00:00,2,2,2,2,2,2,2,2,"",""
+2016-03-28 06:40:06.515486+00:00,2,2,2,2,2,2,2,2,"Python 3.0 voi antaa vastauksena päättymättömän desimaaliluvun, mutta useimmat muut eivät. Abs-funktioon liittyvät tehtävät voisivat olla hyvä lisä matematiikan opetukseen. Myös tehtävät, joissa kääntymisten ja etenemisten jälkeen syntyy kuvio, voisivat olla hyödynnettävissä matematiikan tunneilla.",""
+2016-03-27 19:53:12.197303+00:00,2,2,1,2,2,1,2,2,"",""
+2016-03-27 17:11:44.531439+00:00,1,3,2,3,1,2,4,2,"Paljon uusia käsitteitä, ehkä liikaakin, sillä luulen, että unohdan ne, jos en pian lue seuraavia materiaaleja. Nyt olisi kysyttävääkin...","Hankalampia tehtäviä kaipaan."
+2016-03-26 21:03:41.074514+00:00,2,2,2,2,3,3,2,2,"Opin mielestäni paljonkin Pythonin logiikasta. Selkeimmin mieleen jäivät proseduurit, sillä niillä koodin kirjoittaminen nopeutuu oleellisesti, kun kaikkea ei tarvitse rakentaa alusta asti jatkuvasti.",""
+2016-03-26 16:19:07.661843+00:00,1,2,2,2,2,3,3,3,"Kooditermistöä, nimeämisen logiikkaa ym.Python-kielestä.",""
+2016-03-26 12:30:51.399493+00:00,0,2,2,2,2,3,3,3,"Kertausta käsitteistä",""
+2016-03-25 07:17:51.891204+00:00,1,2,1,2,2,2,2,2,"",""
+2016-03-24 18:14:17.932659+00:00,2,1,1,1,1,2,2,3,"",""
+2016-03-24 11:10:34.042481+00:00,1,2,1,2,2,3,3,3,"",""
+2016-03-23 19:39:52.379657+00:00,2,2,2,2,2,2,2,2,"",""
 2016-03-23 09:34:39.854044+00:00,2,2,2,2,1,3,3,3,"",""
 2016-03-23 09:33:02.191703+00:00,1,2,2,2,2,3,3,3,"funktio, olio yms",""
 2016-03-22 18:58:46.572802+00:00,0,2,2,2,2,3,3,3,"",""
@@ -6,6 +34,7 @@ Time,ajankaytto,tyo_materiaali,tyo_harjoitukset,haaste_materiaali,haaste_harjoit
 2016-03-22 17:29:31.250768+00:00,2,2,2,2,2,3,3,3,"Opin tällä viikolla sekä nimeämään muuttujia että minkälaisia virheitä muuttujien nimeämisten ja arvojen kanssa on ollut. Opin aineistoista niin paljon että tunsin ylpeyttä kun pystyin muokkaamaan koodia toimivaksi, sain tehtyä katon, ohjattua kilpikonnaa ja laskettua ostosten kokonaishintoja. Pienillä asioilla on saanut itselle olon, että olen oppinut paljon.",""
 2016-03-21 21:11:19.922590+00:00,0,2,2,1,1,1,1,3,"",""
 2016-03-21 18:52:59.728474+00:00,1,1,1,2,2,2,2,2,"",""
+2016-03-21 16:59:05.038673+00:00,1,1,1,1,1,1,2,2,"Kaikki yleinen ohjelmointiin liittyvä asia oli tuttua. Pythonin ominaispiirteisiin vähän pääsi tutustumaan.","Palautelomake auki heti samana päivänä kuin tehtävätkin."
 2016-03-21 16:16:02.771751+00:00,2,2,2,2,2,2,2,2,"Nimeämistä",""
 2016-03-21 07:05:21.068695+00:00,2,2,2,2,1,2,2,1,"",""
 2016-03-20 20:50:35.293323+00:00,2,2,2,2,2,2,2,2,"",""
