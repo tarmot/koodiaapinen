@@ -9,7 +9,9 @@ do
   for j in {3,4,5,6,7,8,9}
   do
     cat $i |cut -d ',' -f $j|awk '{ rows+=1; sum+= $1+1; } END {printf sum/rows;}'
-    printf ","
+    if [ $j -lt 9 ]; then
+     printf ","
+    fi
   done
   echo
 done
