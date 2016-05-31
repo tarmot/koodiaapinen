@@ -7,22 +7,22 @@ Time,ajankaytto,tyo_materiaali,tyo_harjoitukset,haaste_materiaali,haaste_harjoit
 2016-05-18 07:58:10.808811+00:00,3,2,2,3,3,2,1,2,"Tämä turtle oli mielestäni ensimmäinen ohjelmointijuttu koko kurssilla, jonka voisin ajatella ottavani oppilaiden kanssa. Tässä tuli konkreettisesti se, että kun komennan kilpikonnan menemään suoraan tietyn matkan, se menee niin. Oppilaille, jotka eivät ole ikinä koodanneet, voi tämäkin olla aluksi liian hankalaa.","Ihan sama, hyvä kurssi, itse en vain ollut kurssin vaatimalla tasolla. Mutta nyt se on suoritettu ja lupaan pysyä tästä eteenpäin kaukana sanasta KOODAUS. Sanon sanan vain silloin kun lyön vasaralla peukaloon."
 2016-05-15 19:17:08.079993+00:00,2,2,2,2,2,3,3,3,"Turtlen käyttöä.",""
 2016-05-15 17:05:32.054363+00:00,2,2,2,2,2,3,3,3,"Turtle yhdistettynä leimoihin!",""
-2016-05-12 08:51:47.260633+00:00,5,2,2,2,3,3,3,3,"-lisää funktioista ja piirtämisestä ja listojen käytöstä
+2016-05-12 08:51:47.260633+00:00,5,2,2,2,3,3,3,3,"-lisää funktioista ja piirtämisestä ja listojen käytöstä -turtle-funktioita -high order funktioista hiukan",""
 2016-05-09 09:55:14.037894+00:00,0,2,2,1,2,2,2,2,"",""
 2016-05-09 03:38:59.242198+00:00,2,2,2,2,2,3,3,3,"Opin piirtämään kuvia racket-turtlen avulla.",""
 2016-05-07 08:32:11.897110+00:00,0,2,2,2,2,3,3,3,"Jätän tämän osuuden kesäopiskeluun :)","Olen ahnehtinut tähän keväälle kaksi ohjelmointikurssia ja vähän kiire on tullut näiden määräaikojen kanssa. Nyt on pakko jättää tämä 'vapaaehtoinen' osuus väliin ja keskittyä Python-kurssin pedagogiseen suunnittelutehtävään. Onneksi siinä voi hyödyntää tämän kurssin lopputyötä pohjana :)"
 2016-05-07 06:07:14.228262+00:00,3,2,2,2,2,3,3,3,"",""
-2016-05-06 14:04:08.982175+00:00,3,2,2,2,2,3,3,3,"(Jaksolla 5 tein töitä luultavasti yli 10 tuntia, palautteessani 0-1 h on väärin.)
+2016-05-06 14:04:08.982175+00:00,3,2,2,2,2,3,3,3,"(Jaksolla 5 tein töitä luultavasti yli 10 tuntia, palautteessani 0-1 h on väärin.)  Turtle-grafiikan funktioita listat   rekursio  repeat  ",""
 2016-05-06 11:04:25.211722+00:00,1,3,3,2,2,3,3,2,"",""
 2016-05-06 10:46:16.761203+00:00,4,2,2,2,2,2,3,2,"Uusia komentoja Turtlelle, erilaisten kuvien/kuvioiden piirtämistä Higher order -funktioilla. Taiteellista vapautta... ;)",""
 2016-05-02 09:02:15.411084+00:00,1,2,2,2,2,2,2,2,"",""
 2016-05-02 05:48:50.038887+00:00,2,2,2,2,2,2,3,3,"",""
-2016-05-01 20:46:10.588018+00:00,3,2,2,2,2,2,3,3,"opin tavan antaa tehtävälistan koneelle tehtäväksi
+2016-05-01 20:46:10.588018+00:00,3,2,2,2,2,2,3,3,"opin tavan antaa tehtävälistan koneelle tehtäväksi opin helpomman tavan piirtää kuvioita toistona","Oli kiva päästä muistelemaan kuvan piirtämistä vielä tässä lopussa. 5. jakso oli niin vaikea, etten käytettävissä olevan ajan puitteissa saanut siitä mitään tolkkua. Tämän helpomman jakson myötä palautui itsekunnioitus edes vähän. "
 2016-05-01 18:58:56.162368+00:00,2,2,2,2,2,2,2,2,"",""
 2016-05-01 18:27:37.374580+00:00,3,2,2,2,2,3,3,3,"Turtle-kirjaston käyttöä.",""
 2016-05-01 18:23:27.359364+00:00,2,2,2,2,2,3,3,3,"",""
 2016-05-01 18:21:18.054005+00:00,2,2,2,2,3,2,2,2,"",""
-2016-05-01 17:51:42.834967+00:00,4,2,2,2,2,3,4,3,"Erilaisia toimintoja käyttämällä muodostamaan kuvion. Mukava oli myös huomata, että yritys-erehdys-menetelmä toimii hienosti ja niin voi saada ihan hienon näköisen kuvan. Epäonnistumisesta voi tässä kohtaa olla myös hyötyä. Rohkeasti voi kokeilla ja saada aikaan erilaisia kuvioita. Mukavaa oli kokeilla ja varioida tehtyä koodia. Pienillä muutoksilla kuvion saa näyttämään erilaiselta. 
+2016-05-01 17:51:42.834967+00:00,4,2,2,2,2,3,4,3,"Erilaisia toimintoja käyttämällä muodostamaan kuvion. Mukava oli myös huomata, että yritys-erehdys-menetelmä toimii hienosti ja niin voi saada ihan hienon näköisen kuvan. Epäonnistumisesta voi tässä kohtaa olla myös hyötyä. Rohkeasti voi kokeilla ja saada aikaan erilaisia kuvioita. Mukavaa oli kokeilla ja varioida tehtyä koodia. Pienillä muutoksilla kuvion saa näyttämään erilaiselta.  Pitäisi vaan kokeilla, eikä lähteä siitä minkä kuvan haluaa tehdä.","Jakson materiaalista oli mukavasti apua, kun teki kuvioita. Kiva jakso, vaikka teki 'väärin' niin se ei lopputuloksessa haitannut."
 2016-05-01 15:42:30.195877+00:00,6,2,2,2,2,4,4,4,"Kuvioiden koodaamista Racket-turtlen komentojen avulla ja  higher order -funktioiden käyttöä.","Aikaa oli vähän tehokkaampaan harjoitteluun, mutta sen voi ehkä tehdä omalla ajalla myöhemmin."
 2016-05-01 10:12:05.759903+00:00,2,2,2,2,2,3,3,3,"Opin tekemään liikkuvan kuvan turtlella.",""
 2016-04-30 22:24:24.450932+00:00,0,2,2,2,2,2,2,2,"",""
@@ -38,7 +38,7 @@ Time,ajankaytto,tyo_materiaali,tyo_harjoitukset,haaste_materiaali,haaste_harjoit
 2016-04-24 19:58:23.196093+00:00,3,2,2,2,2,3,2,3,"Hyvät perusteet kilpparin liikuttelulle. Kivasti sovellettavissa opetukseen.",""
 2016-04-24 10:42:51.151195+00:00,2,2,2,2,2,3,4,3,"Opin piirtämään kuvioita käyttäen listaa ja siinä range-funktiota toistuvien kuvioiden piirtämiseen eri kokoisina. Lisäksi tutustuin erilaisiin kynä- ja värityökaluihin.","Mukava työ. Tuo sopivasti vaihtelua täsmälliseen koodaustehtävään."
 2016-04-24 06:13:05.334392+00:00,2,2,2,2,2,3,3,3,"Kuinka kivaa konnagrafiikka on. ","Inhimillinen jakso verrattuna edeliseen ;)"
-2016-04-23 21:56:34.475848+00:00,4,2,2,2,2,2,1,2,"Palasin muistoissani yli 20 vuoden taakse, kun yläasteen mikroluokassa Logoiltiin linnunpönttömallin Maceilla.
+2016-04-23 21:56:34.475848+00:00,4,2,2,2,2,2,1,2,"Palasin muistoissani yli 20 vuoden taakse, kun yläasteen mikroluokassa Logoiltiin linnunpönttömallin Maceilla. Silloin 'ohjelmointi' kilpparin kanssa tuntui äärimmäisen epämotivoivalta, yläastelainen keksi helposti tuhat mielenkiintoisempaa asiaa kuin geometristen kuvioiden piirtäminen 'vaikeasti' koodikielellä.  Näin aikuisena oli ihan hauskaa kokeilla erilaisia kuvioita, mutta miten mahtaa nuorille upota, kun ei minullekaan silloin uponnut...",""
 2016-04-23 10:00:11.559678+00:00,2,2,2,2,2,2,2,2,"",""
 2016-04-22 15:33:35.432665+00:00,2,2,2,2,2,3,3,3,"",""
 2016-04-21 06:03:44.404899+00:00,3,2,3,2,3,2,2,2,"",""
